@@ -1,6 +1,7 @@
 {
   "expo": {
-    "name": "Blank Template",
+    "name": "To Do App",
+    "description": "To Do App made with React Native",
     "slug": "ToDo-App",
     "privacy": "public",
     "sdkVersion": "36.0.0",
